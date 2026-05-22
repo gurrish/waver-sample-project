@@ -1,6 +1,6 @@
 ﻿# Waver — Cubase Sample Project
 
-This is a small Cubase project demonstrating the Waver plugin in a real mixing context. It includes the Cubase project file, audio stems, peak images, and edited renders used to showcase Waver's effect on drums and bass.
+This is a small Cubase project demonstrating the Waver plugin in a real mixing context. It includes the Cubase project file, audio stems, peak images, and edited renders used to showcase Waver's effect on the electric guitar.
 
 ## What’s included
 - `Waver Demo.cpr` — Cubase project (open in Cubase Pro/Elements compatible versions).
@@ -15,8 +15,7 @@ This is a small Cubase project demonstrating the Waver plugin in a real mixing c
 ## How to audition the Waver plugin
 1. Install the Waver plugin into your DAW plugin folders.
 2. Open `Waver Demo.cpr` in Cubase.
-3. Locate tracks named like `Git Hard`, `Snare`, or `Bass` — these tracks use Waver in the project. If the plugin is missing, insert Waver manually on any drum or bass track.
-4. Play the session and toggle Waver’s bypass to hear its effect. Compare the processed audio in `Edits/` for reference.
+3. Play the session and toggle Waver’s bypass to hear its effect. Compare the processed audio in `Edits/` for reference.
 
 ## Notes for contributors
 - This project is a demo; replace the plugin with your own build of Waver to test changes.
